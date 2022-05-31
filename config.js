@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "Chồng tlai",
+    titleWeb: "Thế giới của em",
     introTitle: 'LTB',
     introDesc: `Trái đất vốn lạ thường
     Mà sao anh cứ đi nhầm đường
@@ -8,10 +8,10 @@ const CONFIG = {
     btnIntro: '^^HiHi^^',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
+    btnYes: 'Thích e lắm <33',
     btnNo: 'Không nha :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao em lại va vào anh <3',
-    btnReply: 'Gửi cho anh <3',
+    btnReply: 'Gửi cho em <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Em biết mà 🥰. Iu anh nhiều nhiều 😘😘',
     messDesc: '1/6 đi chơi vs e nhaaa .',
